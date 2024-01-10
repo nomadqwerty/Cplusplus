@@ -1,0 +1,40 @@
+
+1970s
+c lang by dennis Richie
+
+1979 cpp - bjarne Stroustrup
+
+1983 c++ name
+
+classical c++
+1989 commercial release
+
+1998 cpp first standard.
+
+modern cpp from 2011
+c++ 11, 14, 17
+
+programming c++:
+Writing source code: (high level human readable code).
+
+Using Editors: Editors are word processors specifically designed to write code for particular language
+
+Binary / machine code: this is the code that the computer understands, so we need a compiler to compile our source code to machine code.
+
+compiler: translates our code to machine code
+
+Linker: This is a program that helps connect our source code to other source codes written outside our environment: libraries
+
+testing and debugging code.
+
+c++ build process:
+1 write our source code in .cpp files.
+2 compile our source code into machine code, if no errors happen in compilation the compiler will out put a .obj file this our c++ object 
+, the object is passed to the linker program that then links our objects to other external libraries and then it will output an .exe file (an executable)
+
+
+Environment set up:
+
+Download gcc compiler.
+
+

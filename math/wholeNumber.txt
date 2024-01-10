@@ -1,0 +1,13 @@
+Whole numbers start from 0 - infinity.
+
+digits: are the first ten digits 0-9.
+
+place value system:  its a value system because the value of dgits change based on the posituion of the digit.
+
+ones, tenth, hundreth, thousandth, tenth thousandth, hundreth thousandth, millionth...
+
+the value system in base ten, as it increases we multiply by ten, as we decrease we divide by ten.
+
+600,000 , 70,000 , 3,000 , 400 , 50 , 2
+
+7,000,000,000 - 800,000,000 - 50,000,000 - 3,000,000 - 900,000 - 20,000 - 2,000 - 600 - 70 - 3
